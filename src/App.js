@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-       <QRCode value="conexionfacil.hellomexico.mx"/>
+       <QRCode value="conexionfacil.hellomexico.mx" bgColor="transparent" size="600"/>
       </header>
     </div>
   );
